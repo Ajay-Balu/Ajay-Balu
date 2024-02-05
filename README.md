@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Ajay Boobalakrishnan
 
 Full Stack Developer
-<img align="right" width="370" height="290" src="[https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)">                                                
+<img align="right" width="370" height="290" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">                                                
 - 🌱 I’m currently learning Full Stack Development
 - 👯 I’m looking to collaborate on Full Stack Development
 - 🤔 I’m looking for help with Placements in FAANG
