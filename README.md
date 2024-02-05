@@ -3,7 +3,7 @@
 Full Stack Developer
 <img align="right" width="auto" height="290" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">                                                
 - 🌱 I’m currently learning Full Stack Development
-- 👯 I’m looking to collaborate on Full Stack Development
+- 👯 I’m looking to collaborate on Front-End(React)
 - 🤔 I’m looking for help with Placements in FAANG
 - 💬 Ask me about Tech
 - 📫 How to reach me :
